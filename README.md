@@ -5,6 +5,21 @@ Foco inicial em **corte 1D** (no comprimento), com cálculo de **BLANK** e **pes
 
 ---
 
+---
+
+## 📌 Status
+
+Protótipo funcional, desenvolvimento pausado. O Planner 1D (cálculo, otimização, 
+pré-visualização e exportação) opera de ponta a ponta. O módulo de OP/dobras ficou 
+incompleto.
+
+Nasceu de um problema real: trabalhei três anos em produção industrial e o 
+planejamento de corte era feito manualmente, com desperdício de material. Construí 
+a ferramenta para resolver isso. Parei o desenvolvimento ao priorizar outro projeto.
+
+Mantenho o repositório público porque o Planner demonstra o cálculo de BLANK, a 
+otimização com kerf e a geração de desenho técnico — que era o núcleo do problema.
+
 ## ✨ Recursos
 
 - **Planner 1D**: insira a composição por **Texto** (`1x600, 2x400, 3x240`) ou **Tabela** (Qtd × Comprimento).
