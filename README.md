@@ -20,6 +20,8 @@ a ferramenta para resolver isso. Parei o desenvolvimento ao priorizar outro proj
 Mantenho o repositório público porque o Planner demonstra o cálculo de BLANK, a 
 otimização com kerf e a geração de desenho técnico — que era o núcleo do problema.
 
+Construído com apoio de IA para geração de código, em 2025, antes dos agentes de programação atuais. Eu definia o problema, montava a estrutura, integrava e depurava.
+
 ## ✨ Recursos
 
 - **Planner 1D**: insira a composição por **Texto** (`1x600, 2x400, 3x240`) ou **Tabela** (Qtd × Comprimento).
